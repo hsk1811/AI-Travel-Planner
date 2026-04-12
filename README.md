@@ -5,6 +5,9 @@ AI Travel Planner is a Streamlit-based web application that generates personaliz
 
 ---
 
+## 🌐 Live Demo  
+👉 https://ai-travel-planner-2cvzf54mdz8sjnfpuewdsl.streamlit.app/
+
 ## 🚀 Features  
 - AI-generated personalized travel itineraries  
 - Destination-based planning  
